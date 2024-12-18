@@ -1,0 +1,224 @@
+Epoch 0
+Current LR is 0.01
+TRAIN  Loss 1.6041285824012756	 Accuracy 0.40718
+VAL  Loss 1.2907615394592284	 Accuracy 0.5312
+Epoch 1
+Current LR is 0.01
+TRAIN  Loss 1.233640305480957	 Accuracy 0.55682
+VAL  Loss 1.042762547683716	 Accuracy 0.6333
+Epoch 2
+Current LR is 0.01
+TRAIN  Loss 1.076411616344452	 Accuracy 0.61568
+VAL  Loss 0.9242414187908172	 Accuracy 0.6716
+Epoch 3
+Current LR is 0.01
+TRAIN  Loss 0.9800555849838257	 Accuracy 0.65458
+VAL  Loss 0.8720010380744934	 Accuracy 0.696
+Epoch 4
+Current LR is 0.01
+TRAIN  Loss 0.9025050667381287	 Accuracy 0.6861
+VAL  Loss 0.7780911430358887	 Accuracy 0.7283
+Epoch 5
+Current LR is 0.01
+TRAIN  Loss 0.8455364087677002	 Accuracy 0.70686
+VAL  Loss 0.7127250772476196	 Accuracy 0.7508
+Epoch 6
+Current LR is 0.01
+TRAIN  Loss 0.8054788405799865	 Accuracy 0.71822
+VAL  Loss 0.7170844312191009	 Accuracy 0.7538
+Epochs since last improvement: 1
+Epoch 7
+Current LR is 0.01
+TRAIN  Loss 0.768030850162506	 Accuracy 0.73124
+VAL  Loss 0.6691899203300476	 Accuracy 0.7645
+Epoch 8
+Current LR is 0.01
+TRAIN  Loss 0.7386505060005188	 Accuracy 0.74214
+VAL  Loss 0.6565545334339142	 Accuracy 0.77
+Epoch 9
+Current LR is 0.01
+TRAIN  Loss 0.712555538187027	 Accuracy 0.75358
+VAL  Loss 0.6414675449371338	 Accuracy 0.779
+Epoch 10
+Current LR is 0.01
+TRAIN  Loss 0.6892875838184357	 Accuracy 0.7619
+VAL  Loss 0.6230244725704193	 Accuracy 0.7845
+Epoch 11
+Current LR is 0.01
+TRAIN  Loss 0.6674393397712708	 Accuracy 0.76864
+VAL  Loss 0.6163057900428772	 Accuracy 0.7889
+Epoch 12
+Current LR is 0.01
+TRAIN  Loss 0.6523553461074829	 Accuracy 0.77292
+VAL  Loss 0.599208554315567	 Accuracy 0.7935
+Epoch 13
+Current LR is 0.01
+TRAIN  Loss 0.6407487530136109	 Accuracy 0.77658
+VAL  Loss 0.5636084974288941	 Accuracy 0.8028
+Epoch 14
+Current LR is 0.01
+TRAIN  Loss 0.6232011975765228	 Accuracy 0.7833
+VAL  Loss 0.5849255882740021	 Accuracy 0.7954
+Epochs since last improvement: 1
+Epoch 15
+Current LR is 0.01
+TRAIN  Loss 0.6043130455207825	 Accuracy 0.79088
+VAL  Loss 0.5500903619289398	 Accuracy 0.8114
+Epoch 16
+Current LR is 0.01
+TRAIN  Loss 0.6001115163230896	 Accuracy 0.79206
+VAL  Loss 0.5679438338756562	 Accuracy 0.804
+Epochs since last improvement: 1
+Epoch 17
+Current LR is 0.01
+TRAIN  Loss 0.5870663322544097	 Accuracy 0.79522
+VAL  Loss 0.568201684999466	 Accuracy 0.8069
+Epochs since last improvement: 2
+Epoch 18
+Current LR is 0.01
+TRAIN  Loss 0.5746941497707367	 Accuracy 0.80012
+VAL  Loss 0.5312411558389664	 Accuracy 0.817
+Epoch 19
+Current LR is 0.01
+TRAIN  Loss 0.5662339028930664	 Accuracy 0.80238
+VAL  Loss 0.5325842555999756	 Accuracy 0.8152
+Epochs since last improvement: 1
+Epoch 20
+Current LR is 0.01
+TRAIN  Loss 0.5616096709346772	 Accuracy 0.80692
+VAL  Loss 0.523011389541626	 Accuracy 0.8203
+Epoch 21
+Current LR is 0.01
+TRAIN  Loss 0.5464039702320099	 Accuracy 0.81168
+VAL  Loss 0.5551041973590851	 Accuracy 0.8111
+Epochs since last improvement: 1
+Epoch 22
+Current LR is 0.01
+TRAIN  Loss 0.5429338387727738	 Accuracy 0.81036
+VAL  Loss 0.5471767036437988	 Accuracy 0.8105
+Epochs since last improvement: 2
+Epoch 23
+Current LR is 0.01
+TRAIN  Loss 0.5348291416358948	 Accuracy 0.81502
+VAL  Loss 0.5457014312028885	 Accuracy 0.8157
+Epochs since last improvement: 3
+Epoch 24
+Current LR is 0.01
+TRAIN  Loss 0.5307323929023743	 Accuracy 0.81476
+VAL  Loss 0.5185973693132401	 Accuracy 0.8232
+Epoch 25
+Current LR is 0.01
+TRAIN  Loss 0.5243802192497253	 Accuracy 0.81674
+VAL  Loss 0.5846921971321106	 Accuracy 0.8014
+Epochs since last improvement: 1
+Epoch 26
+Current LR is 0.01
+TRAIN  Loss 0.5172052765464783	 Accuracy 0.82082
+VAL  Loss 0.49494389505386355	 Accuracy 0.8316
+Epoch 27
+Current LR is 0.01
+TRAIN  Loss 0.5071012854862214	 Accuracy 0.82532
+VAL  Loss 0.505732075047493	 Accuracy 0.8246
+Epochs since last improvement: 1
+Epoch 28
+Current LR is 0.01
+TRAIN  Loss 0.510009948129654	 Accuracy 0.82158
+VAL  Loss 0.5667343730926514	 Accuracy 0.8105
+Epochs since last improvement: 2
+Epoch 29
+Current LR is 0.01
+TRAIN  Loss 0.5018976910591125	 Accuracy 0.82652
+VAL  Loss 0.5200087031602859	 Accuracy 0.8246
+Epochs since last improvement: 3
+Epoch 30
+Current LR is 0.01
+TRAIN  Loss 0.49393806965351106	 Accuracy 0.82892
+VAL  Loss 0.5029621395587921	 Accuracy 0.8289
+Epochs since last improvement: 4
+Epoch 31
+Current LR is 0.01
+TRAIN  Loss 0.48522849235534665	 Accuracy 0.83166
+VAL  Loss 0.49001520910263063	 Accuracy 0.8334
+Epoch 32
+Current LR is 0.01
+TRAIN  Loss 0.48256886891365053	 Accuracy 0.8302
+VAL  Loss 0.501651637005806	 Accuracy 0.8276
+Epochs since last improvement: 1
+Epoch 33
+Current LR is 0.01
+TRAIN  Loss 0.4784299294042587	 Accuracy 0.83458
+VAL  Loss 0.45780752241611483	 Accuracy 0.8437
+Epoch 34
+Current LR is 0.01
+TRAIN  Loss 0.479046497964859	 Accuracy 0.83262
+VAL  Loss 0.4889437970161438	 Accuracy 0.8337
+Epochs since last improvement: 1
+Epoch 35
+Current LR is 0.01
+TRAIN  Loss 0.4733450896167755	 Accuracy 0.83772
+VAL  Loss 0.4807072458028793	 Accuracy 0.8371
+Epochs since last improvement: 2
+Epoch 36
+Current LR is 0.01
+TRAIN  Loss 0.46764462257385253	 Accuracy 0.83656
+VAL  Loss 0.4987393880844116	 Accuracy 0.8309
+Epochs since last improvement: 3
+Epoch 37
+Current LR is 0.01
+TRAIN  Loss 0.4614530029582977	 Accuracy 0.84
+VAL  Loss 0.4910694330692291	 Accuracy 0.8339
+Epochs since last improvement: 4
+Epoch 38
+Current LR is 0.01
+TRAIN  Loss 0.46188965663433074	 Accuracy 0.83896
+VAL  Loss 0.4987741990327835	 Accuracy 0.8319
+Epochs since last improvement: 5
+Epoch 39
+Current LR is 0.001
+TRAIN  Loss 0.3831477761673927	 Accuracy 0.86752
+VAL  Loss 0.4218045848369598	 Accuracy 0.8593
+Epoch 40
+Current LR is 0.001
+TRAIN  Loss 0.35952689958333967	 Accuracy 0.87546
+VAL  Loss 0.4166311945676804	 Accuracy 0.8616
+Epoch 41
+Current LR is 0.001
+TRAIN  Loss 0.3450040341091156	 Accuracy 0.87994
+VAL  Loss 0.41471768019199373	 Accuracy 0.862
+Epoch 42
+Current LR is 0.001
+TRAIN  Loss 0.3380955702829361	 Accuracy 0.8828
+VAL  Loss 0.41346522550582887	 Accuracy 0.8614
+Epoch 43
+Current LR is 0.001
+TRAIN  Loss 0.3345774479842186	 Accuracy 0.88576
+VAL  Loss 0.41017393980026245	 Accuracy 0.8616
+Epoch 44
+Current LR is 0.001
+TRAIN  Loss 0.3290896204948425	 Accuracy 0.8879
+VAL  Loss 0.4102674934864044	 Accuracy 0.8628
+Epochs since last improvement: 1
+Epoch 45
+Current LR is 0.001
+TRAIN  Loss 0.32591309918403627	 Accuracy 0.8871
+VAL  Loss 0.4158686957359314	 Accuracy 0.8631
+Epochs since last improvement: 2
+Epoch 46
+Current LR is 0.001
+TRAIN  Loss 0.3256349574661255	 Accuracy 0.88754
+VAL  Loss 0.4133799375772476	 Accuracy 0.8619
+Epochs since last improvement: 3
+Epoch 47
+Current LR is 0.001
+TRAIN  Loss 0.3259429306173325	 Accuracy 0.88744
+VAL  Loss 0.4082137391090393	 Accuracy 0.8645
+Epoch 48
+Current LR is 0.001
+TRAIN  Loss 0.31725030925273895	 Accuracy 0.89148
+VAL  Loss 0.4085090480327606	 Accuracy 0.8662
+Epochs since last improvement: 1
+Epoch 49
+Current LR is 0.001
+TRAIN  Loss 0.31238633442640307	 Accuracy 0.89318
+VAL  Loss 0.4110677458524704	 Accuracy 0.864
+Epochs since last improvement: 2
